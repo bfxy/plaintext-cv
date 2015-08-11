@@ -1,0 +1,118 @@
+Vitali Lobanov
+Moscow, Russia
+7 985 476 1633
+al.werehere@gmail.com
+
+
+~~~~~~~
+SUMMARY
+~~~~~~~
+
+* 3 years of experience in technical documentation including:
+   - user guides
+   - developer documentation
+   - technical descriptions
+   - API & SDK references, release notes
+* Strong background in linguistics and writing, professional translation and localization experience
+* Amateur programming skills (Python, bash)
+
+
+~~~~~~~~~~~~
+WORK HISTORY
+~~~~~~~~~~~~
+
+Nov 2013 — August 2015
+TECHNICAL WRITER
+NPTV, Moscow, Russia (nptv.com)
+
+Responsibilities:
+— Develop detailed technical descriptions for cloud-based multimedia platform
+— Write and edit developer documentation
+
+Experience:
+— Gained insight into the odds and ends of sophisticated web-technology development
+— Targeted diverse audience: developers, managers, investors, and auditors
+— Learned a dozen of authoring methods & tools
+— Developed a document compiler plugin for Sublime Text
+— Worked in a company of top notch professionals and in a team of great lads and lasses
+
+------------------
+
+Oct 2012 - Present
+TECHNICAL WRITER
+West Medica, Perm, Russia (westmedica.com)
+
+Responsibilities:
+— Develop software user guides (automated analysis systems for microscopy)
+— Medical & technical translation (articles, maintenance guides, service guides) 
+— Software localization
+— Translate ads and marketing stuff  
+
+Experience:
+— Developed and edited hundreds of end-user documentation pages for complex laboratory software
+— Corrected localization errors and helped to greatly improve UX text-wise
+— Participated in developing quick multi-language localization toolkit
+— Gained insight into medical computational appliances and medical industry in general
+
+------------------
+
+Feb 2009 - Present
+TECHNICAL TRANSLATOR
+self-employed
+
+Do's:
+— Technical translation (Russian–English)
+— Audio & video transcription from English
+— Subtitles
+
+
+~~~~~~~~~ 
+EDUCATION
+~~~~~~~~~
+
+2015, NYI, St.Petersburg, Russia
+Cognitive Science (Summer School)
+
+2013, Perm State University, Perm, Russia
+Computational Linguistics (B.A.)
+
+
+~~~~~~~
+COURSES
+~~~~~~~
+
+2014, Coursera:
+    — Introduction to Interactive Programming with Python
+    - Machine Learning
+
+
+~~~~~
+LINGO
+~~~~~
+
+English    Russian    German    Polish
+fluent     native     basic     basic
+
+
+~~~~~~~~~
+TECHNICAL
+~~~~~~~~~
+
+Using everyday: 
+    Markdown, LaTeX, HTML+CSS, Python, Bash, OmniGraffle, Mac OS, Git. 
+
+Friends with: 
+    reStructuredText, Linux, Windows, Visual Studio, MS Office, CAT Tools (Trados, OmegaT).
+
+Following: 
+    Elements of Style by Strunk & White, Chicago Manual of Style, Butterick's Practical Typography.
+
+
+~~~~~~~~~~~
+THIS & THAT
+~~~~~~~~~~~
+
+* Confident technical writer with strong background in linguistics and deep admiration for computer science. 
+* Open, friendly, and supportive workmate who values teamwork and loves to learn from others. 
+* Amateur Python programmer with passion for data mining and data science research. Also, avid swimmer and recreational guitarist.
+
