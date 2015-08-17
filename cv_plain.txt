@@ -1,4 +1,5 @@
 Vitali Lobanov
+26 y.o.
 Moscow, Russia
 7 985 476 1633
 al.werehere@gmail.com
@@ -70,12 +71,11 @@ Do's:
 EDUCATION
 ~~~~~~~~~
 
-2015, NYI, St.Petersburg, Russia
-Cognitive Science (Summer School)
-
 2013, Perm State University, Perm, Russia
 Computational Linguistics (B.A.)
 
+2015, NYI, St.Petersburg, Russia
+Cognitive Science (Summer School)
 
 ~~~~~~~
 COURSES
@@ -102,9 +102,9 @@ Using everyday:
     Markdown, LaTeX, HTML+CSS, Python, Bash, OmniGraffle, Mac OS, Git. 
 
 Friends with: 
-    reStructuredText, Linux, Windows, Visual Studio, MS Office, CAT Tools (Trados, OmegaT).
+    Sphinx, reStructuredText, Linux, Windows, Visual Studio, MS Office, CAT Tools (Trados, OmegaT).
 
-Following: 
+Following:
     Elements of Style by Strunk & White, Chicago Manual of Style, Butterick's Practical Typography.
 
 
@@ -113,6 +113,6 @@ THIS & THAT
 ~~~~~~~~~~~
 
 * Confident technical writer with strong background in linguistics and deep admiration for computer science. 
-* Open, friendly, and supportive workmate who values teamwork and loves to learn from others. 
-* Amateur Python programmer with passion for data mining and data science research. Also, avid swimmer and recreational guitarist.
+* Open, friendly, and supportive workmate who values teamwork and loves to learn from others.
+* Amateur Python programmer with slight obsession towards data science-related stuff. Also, avid swimmer and recreational guitarist.
 
