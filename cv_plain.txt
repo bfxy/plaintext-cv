@@ -1,4 +1,4 @@
-Vitali Lobanov
+﻿Vitali Lobanov
 26 y.o.
 Moscow, Russia
 7 985 476 1633
@@ -21,6 +21,12 @@ SUMMARY
 ~~~~~~~~~~~~
 WORK HISTORY
 ~~~~~~~~~~~~
+
+Dec 2015 — present
+TECHNICAL WRITER
+Wargaming.net, Minsk, Belarus
+
+------------------
 
 Nov 2013 — Aug 2015
 TECHNICAL WRITER
